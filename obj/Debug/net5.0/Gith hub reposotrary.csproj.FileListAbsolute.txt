@@ -1,0 +1,16 @@
+C:\Users\ramza\OneDrive\Desktop\C#\Gith hub reposotrary\bin\Debug\net5.0\Gith hub reposotrary.exe
+C:\Users\ramza\OneDrive\Desktop\C#\Gith hub reposotrary\bin\Debug\net5.0\Gith hub reposotrary.deps.json
+C:\Users\ramza\OneDrive\Desktop\C#\Gith hub reposotrary\bin\Debug\net5.0\Gith hub reposotrary.runtimeconfig.json
+C:\Users\ramza\OneDrive\Desktop\C#\Gith hub reposotrary\bin\Debug\net5.0\Gith hub reposotrary.runtimeconfig.dev.json
+C:\Users\ramza\OneDrive\Desktop\C#\Gith hub reposotrary\bin\Debug\net5.0\Gith hub reposotrary.dll
+C:\Users\ramza\OneDrive\Desktop\C#\Gith hub reposotrary\bin\Debug\net5.0\ref\Gith hub reposotrary.dll
+C:\Users\ramza\OneDrive\Desktop\C#\Gith hub reposotrary\bin\Debug\net5.0\Gith hub reposotrary.pdb
+C:\Users\ramza\OneDrive\Desktop\C#\Gith hub reposotrary\obj\Debug\net5.0\Gith hub reposotrary.csprojAssemblyReference.cache
+C:\Users\ramza\OneDrive\Desktop\C#\Gith hub reposotrary\obj\Debug\net5.0\Gith hub reposotrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramza\OneDrive\Desktop\C#\Gith hub reposotrary\obj\Debug\net5.0\Gith hub reposotrary.AssemblyInfoInputs.cache
+C:\Users\ramza\OneDrive\Desktop\C#\Gith hub reposotrary\obj\Debug\net5.0\Gith hub reposotrary.AssemblyInfo.cs
+C:\Users\ramza\OneDrive\Desktop\C#\Gith hub reposotrary\obj\Debug\net5.0\Gith hub reposotrary.csproj.CoreCompileInputs.cache
+C:\Users\ramza\OneDrive\Desktop\C#\Gith hub reposotrary\obj\Debug\net5.0\Gith hub reposotrary.dll
+C:\Users\ramza\OneDrive\Desktop\C#\Gith hub reposotrary\obj\Debug\net5.0\ref\Gith hub reposotrary.dll
+C:\Users\ramza\OneDrive\Desktop\C#\Gith hub reposotrary\obj\Debug\net5.0\Gith hub reposotrary.pdb
+C:\Users\ramza\OneDrive\Desktop\C#\Gith hub reposotrary\obj\Debug\net5.0\Gith hub reposotrary.genruntimeconfig.cache
